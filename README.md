@@ -4,6 +4,7 @@ Welcome to the Face Recognition Login In Employee Management System repository! 
 
 ## Features
 
+- **Face Recognition Login:** Login to the application using your face Id.
 - **Employee Management:** Add, remove, and update employee information with ease.
 - **Department Management:** Organize your workforce efficiently by managing departments effortlessly.
 - **Salary Management:** Stay on top of salary administration by managing compensation details effectively.
