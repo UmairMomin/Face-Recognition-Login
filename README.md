@@ -1,6 +1,6 @@
 # Face Recognition Login In Employee Management System
 
-Welcome to the Face Recognition Login In Employee Management System repository! This project is a comprehensive solution for managing employees, departments, and salaries within an organization. Built using Node.js, Express, and SQL, it offers a user-friendly interface and robust functionality to streamline HR processes. The main component of this project id Login using Face Recognition done by using the OpenCV library of python.
+Welcome to the Face Recognition Login In Employee Management System repository! This project is a comprehensive solution for managing employees, departments, and salaries within an organization. Built using Node.js, Express, and SQL, it offers a user-friendly interface and robust functionality to streamline HR processes. The main component of this project id Login using Face Recognition done by using various libraries of python like OpenCV, Pillow, numpy, Tkinter, face recognition, etc.
 
 ## Features
 
